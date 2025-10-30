@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimage_monitor.a  CMakeFiles/image_monitor.dir/image_monitor.cpp.o CMakeFiles/image_monitor.dir/image_monitor_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libimage_monitor.a

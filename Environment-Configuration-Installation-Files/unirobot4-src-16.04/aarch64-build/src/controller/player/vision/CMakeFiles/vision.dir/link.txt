@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libvision.a  CMakeFiles/vision.dir/vision.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libvision.a

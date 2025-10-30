@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimage_debuger.a  CMakeFiles/image_debuger.dir/image_debuger.cpp.o CMakeFiles/image_debuger.dir/image_debuger_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libimage_debuger.a

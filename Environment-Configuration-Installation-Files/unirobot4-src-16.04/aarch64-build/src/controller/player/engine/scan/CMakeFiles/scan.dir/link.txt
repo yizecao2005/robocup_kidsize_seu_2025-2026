@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libscan.a  CMakeFiles/scan.dir/scan_engine.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libscan.a

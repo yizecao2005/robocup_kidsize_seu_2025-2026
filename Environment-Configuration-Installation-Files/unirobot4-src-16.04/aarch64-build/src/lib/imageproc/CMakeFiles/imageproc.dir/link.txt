@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libimageproc.a  CMakeFiles/imageproc.dir/imageproc.cpp.o CMakeFiles/imageproc.dir/imageproc.cu.o
+/usr/bin/aarch64-linux-gnu-ranlib libimageproc.a

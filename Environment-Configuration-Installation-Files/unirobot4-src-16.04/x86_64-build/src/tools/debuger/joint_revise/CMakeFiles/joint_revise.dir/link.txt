@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjoint_revise.a  CMakeFiles/joint_revise.dir/joint_revise.cpp.o CMakeFiles/joint_revise.dir/joint_revise_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libjoint_revise.a

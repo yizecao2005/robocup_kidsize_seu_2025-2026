@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lib/logger.hpp
+iostream
+-
+
+../src/lib/singleton.hpp
+memory
+-
+
+/root/unirobot4_V2_SKILL/src/controller/options/options.cpp
+options.hpp
+/root/unirobot4_V2_SKILL/src/controller/options/options.hpp
+iostream
+-
+logger.hpp
+/root/unirobot4_V2_SKILL/src/controller/options/logger.hpp
+
+/root/unirobot4_V2_SKILL/src/controller/options/options.hpp
+boost/program_options.hpp
+-
+singleton.hpp
+/root/unirobot4_V2_SKILL/src/controller/options/singleton.hpp
+

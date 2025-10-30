@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwalk_remote.a  CMakeFiles/walk_remote.dir/walk_remote.cpp.o CMakeFiles/walk_remote.dir/walk_remote_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libwalk_remote.a

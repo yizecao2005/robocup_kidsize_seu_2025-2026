@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc librobot.a  CMakeFiles/robot.dir/robot.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib librobot.a

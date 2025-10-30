@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libskill.a  CMakeFiles/skill.dir/skill.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libskill.a

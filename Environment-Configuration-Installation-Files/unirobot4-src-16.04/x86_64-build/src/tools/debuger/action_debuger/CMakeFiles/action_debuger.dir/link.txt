@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaction_debuger.a  CMakeFiles/action_debuger.dir/action_debuger.cpp.o CMakeFiles/action_debuger.dir/action_debuger_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libaction_debuger.a
