@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcamera_setter.a  CMakeFiles/camera_setter.dir/camera_setter.cpp.o CMakeFiles/camera_setter.dir/camera_setter_autogen/mocs_compilation.cpp.o
-/usr/bin/ranlib libcamera_setter.a

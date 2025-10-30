@@ -1,2 +1,0 @@
-/usr/bin/aarch64-linux-gnu-ar qc libcontroller_options.a  CMakeFiles/controller_options.dir/options.cpp.o
-/usr/bin/aarch64-linux-gnu-ranlib libcontroller_options.a

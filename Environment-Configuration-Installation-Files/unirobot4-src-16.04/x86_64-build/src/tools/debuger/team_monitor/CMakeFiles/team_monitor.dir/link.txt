@@ -1,2 +1,0 @@
-/usr/bin/ar qc libteam_monitor.a  CMakeFiles/team_monitor.dir/state_monitor.cpp.o CMakeFiles/team_monitor.dir/team_monitor.cpp.o CMakeFiles/team_monitor.dir/team_monitor_autogen/mocs_compilation.cpp.o
-/usr/bin/ranlib libteam_monitor.a

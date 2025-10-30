@@ -1,2 +1,0 @@
-/usr/bin/aarch64-linux-gnu-ar qc libaction.a  CMakeFiles/action.dir/action_engine.cpp.o
-/usr/bin/aarch64-linux-gnu-ranlib libaction.a

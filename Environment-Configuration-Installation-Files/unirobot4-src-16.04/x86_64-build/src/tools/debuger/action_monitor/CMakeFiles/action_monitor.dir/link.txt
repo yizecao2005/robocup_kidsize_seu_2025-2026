@@ -1,2 +1,0 @@
-/usr/bin/ar qc libaction_monitor.a  CMakeFiles/action_monitor.dir/action_monitor.cpp.o CMakeFiles/action_monitor.dir/action_monitor_autogen/mocs_compilation.cpp.o
-/usr/bin/ranlib libaction_monitor.a

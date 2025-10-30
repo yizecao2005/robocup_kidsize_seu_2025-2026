@@ -1,2 +1,0 @@
-/usr/bin/aarch64-linux-gnu-ar qc libgpio.a  CMakeFiles/gpio.dir/gpio.cpp.o
-/usr/bin/aarch64-linux-gnu-ranlib libgpio.a
