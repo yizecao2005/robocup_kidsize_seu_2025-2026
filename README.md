@@ -1,4 +1,6 @@
-# SEU-Robocup-Kidsize-2025-2026-New-Era
+<<<<<<< HEAD
+# SEU-Robocup-Kidsize-2025-2026
+基于NVIDIA Jetson的双足足球机器人，东南大学robocup kidsize团队作品
 All the Codes are stored here, but the relevant documents are in Feishu app.
 ## 当前版本
 当前代码适配ubuntu16.04，将来要使用适配22.04ubuntu的代码，目前正在修改
@@ -9,3 +11,5 @@ Expiration Date: 2030-11-03
 ## 更新
 考虑到只有少部分人接触硬件和结构，本项目只存储代码部分
 环境配置和一些教程部分全都搬到“飞书”
+
+>>>>>>> dfda14b4dc57cf2f562f064272576302a60d5567
