@@ -9,7 +9,7 @@ All the Codes are stored here, but the relevant documents are in Feishu app.
 链接如下：https://pan.seu.edu.cn:443/link/2048D8472223411DDB79162E181DD7CB  
 Expiration Date: 2030-11-03
 ## 更新
-考虑到只有少部分人接触硬件和结构，本项目只存储代码部分
+考虑到只有少部分人接触硬件和结构，本项目只存储代码部分 
 环境配置和一些教程部分全都搬到“飞书”
 
 >>>>>>> 
