@@ -1,0 +1,2 @@
+# robocup_kidsize_seu_2025-2026
+基于NVIDIA Jetson的双足足球机器人，东南大学robocup kidsize团队作品
