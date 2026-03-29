@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< 
 # SEU-Robocup-Kidsize-2025-2026
 基于NVIDIA Jetson的双足足球机器人，东南大学robocup kidsize团队作品
 All the Codes are stored here, but the relevant documents are in Feishu app.
